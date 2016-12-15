@@ -1,7 +1,7 @@
 {
-  "name": "event-emitter",
-  "version": "0.0.1",
-  "description": "event emitter",
+  "name": "events-emitter",
+  "version": "0.0.2",
+  "description": "events emitter",
   "main": "lib/index.js",
   "scripts": {
     "dev": "babel src --out-dir lib -w",
@@ -26,13 +26,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/twobin/event-emitter.git"
+    "url": "https://github.com/twobin/events-emitter.git"
   },
   "author": "twobin",
   "bugs": {
-    "url": "https://github.com/twobin/event-emitter/issues"
+    "url": "https://github.com/twobin/events-emitter/issues"
   },
-  "homepage": "https://github.com/twobin/event-emitter",
+  "homepage": "https://github.com/twobin/events-emitter",
   "dependencies": {
   },
   "files": [
